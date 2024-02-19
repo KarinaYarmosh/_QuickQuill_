@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="front">#E7E7E7</color>
+    <color name="titles">#000000</color>
+    <color name="text">#000000</color>
+    <color name="buttons">#ACD2EB</color>
+
+    <color name="nav_bars">#ACD2EB</color>
+    <color name="action">#F1B952</color>
+
+    <color name="frame_notes">#D9D9D9</color>
+    <color name="frames_main">#F5F5F5</color>
+
+    <color name="pop_aps">#FFFFFF</color>
+    <color name="shadow">#D3D3D3</color>
+
+    <color name="text_button">#3498DB</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>
